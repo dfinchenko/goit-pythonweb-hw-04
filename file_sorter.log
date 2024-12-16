@@ -1,0 +1,6 @@
+2024-12-16 15:19:56,617 - INFO - Starting to sort files from source_folder to output_folder
+2024-12-16 15:19:56,619 - INFO - File source_folder/test.docx copied to output_folder/docx/test.docx
+2024-12-16 15:19:56,619 - INFO - File source_folder/test.jpg copied to output_folder/jpg/test.jpg
+2024-12-16 15:19:56,620 - INFO - File source_folder/test.pdf copied to output_folder/pdf/test.pdf
+2024-12-16 15:19:56,620 - INFO - File source_folder/test.txt copied to output_folder/txt/test.txt
+2024-12-16 15:19:56,620 - INFO - File sorting completed.
